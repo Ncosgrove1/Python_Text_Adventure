@@ -47,7 +47,7 @@ def start_game():
             "enemies": ["Animated Armor", "Ghost Knight"]
         },
         "bedroom": {
-            "desc": "A cramped, dusty storage bedroom. It's a DEAD END filled with broken shelves.",
+            "desc": "A cramped, and dusty bedroom. It's a DEAD END room filled with broken shelves.",
             "enemies": ["Angry Bat"]
         }
     }
